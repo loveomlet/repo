@@ -1,16 +1,15 @@
 body {
     color: white;
-<<<<<<< HEAD
-    background-color: black;
+    text-align: center;
     font-family: 'Sacramento', cursive;
-  font-size: 32px;
-  margin-top: 5%;
-  margin-left: 20%;
-  margin-right: 20%;
-=======
+    font-size: 32px;
     background-color: #333;
-    font-size: 150%;
-    font-family: 'Satisfy', cursive;
+    font-size: 200%;
     margin: 5em 25%;
->>>>>>> 457613b024c4b166ef1a507bf1c5e6c05f03b2a9
+}
+
+div {
+    border: 3px solid white;
+    border-radius: 50px;
+    margin: auto;
 }
